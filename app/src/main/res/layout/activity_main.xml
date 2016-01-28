@@ -19,7 +19,7 @@
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:hint="username"
-            android:text="mario" />
+            android:text="" />
     </android.support.design.widget.TextInputLayout>
 
     <android.support.design.widget.TextInputLayout
@@ -32,7 +32,7 @@
             android:layout_height="wrap_content"
             android:hint="password"
             android:inputType="textPassword"
-            android:text="koombe" />
+            android:text="" />
 
     </android.support.design.widget.TextInputLayout>
 
