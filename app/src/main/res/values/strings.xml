@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">MVPDemo</string>
+    <string name="error_password">El password esta errado</string>
+    <string name="error_username">El usuario esta errado</string>
+</resources>
